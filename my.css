@@ -1,3 +1,8 @@
 *{
-    background-color: #c81b1b;
+    background-color: #bab3b3;
+}
+header{
+    height: 1200px;
+    background-image: url(./img/1748844867.jpg);
+    background-size: cover;
 }
